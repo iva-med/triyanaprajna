@@ -1,8 +1,8 @@
 body {
   min-height: 100vh;
   margin: 0;
-  background: #ffb36b;
-  background: linear-gradient(1deg, rgba(255, 179, 107, 1) 0%, rgba(196, 241, 255, 1) 100%);
+  background: #ffd8b5;
+  background: linear-gradient(1deg,rgba(255, 216, 181, 1) 0%, rgba(196, 241, 255, 1) 100%);
   font: 1em georgia;
 }
 .content {
@@ -40,8 +40,8 @@ p {
 }
 
 .footer {
-  /* background: #ffb36b; */
-  background: #ffb36b;
+  /* background: #ffd8b5; */
+  background: #ffd8b5;
   position: fixed;
   left: 0;
   right: 0;
